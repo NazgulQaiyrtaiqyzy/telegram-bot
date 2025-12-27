@@ -1,0 +1,12 @@
+# Python cache файлы
+__pycache__/
+*.pyc
+
+# Жеке кілттер файлы
+.env
+APITOKEN.py
+
+# OS уақытша файлдар
+.DS_Store
+
+students_results.json
